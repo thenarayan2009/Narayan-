@@ -1,0 +1,5 @@
+{
+  "name": "Git Repository Viewer",
+  "description": "A simple and elegant interface to view and manage your code files before connecting them to a GitHub repository. It allows you to visualize your Python scripts and project dependencies.",
+  "requestFramePermissions": []
+}
